@@ -1,0 +1,6 @@
+pandas
+numpy
+bokeh
+matplotlib
+seaborn
+statsmodels
